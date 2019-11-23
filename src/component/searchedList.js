@@ -76,7 +76,7 @@ tenthParagraph=()=>{
 render(){
     return(
         <div>
-            <h3 style={{color:"green"}}>All available paragraphs(Now search a keyword to see which of the below paragraphs consist of that keyword)</h3>
+            <h3 style={{color:"green"}}>All available paragraphs(Now search a keyword to see which of the below paragraphs consist of that keyword AND THEN HIT ENTER TO SUBMIT)</h3>
 <div>{this.firstParagraph()}</div>
 <br></br>
 <br></br>
