@@ -1,0 +1,25 @@
+const documented=[
+    {para: "abecedarian.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Magna ac placerat vestibulum lectus. Elit duis tristique sollicitudin nibh sit amet commodo. Senectus et netus et malesuada fames. Fermentum iaculis eu non diam phasellus vestibulum lorem sed. Dictumst quisque sagittis purus sit amet volutpat consequat mauris. Aliquam ut porttitor leo a diam sollicitudin tempor. Consectetur a erat nam at lectus urna duis convallis. Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida neque.",
+    id:1},
+    {para: "Maecenas volutpat blandit aliquam etiam erat velit scelerisque. Lectus sit amet est placerat in egestas erat imperdiet. Ante in nibh mauris cursus mattis. Tellus rutrum tellus pellentesque eu tincidunt. Euismod quis viverra nibh cras pulvinar mattis. Proin nibh nisl condimentum id venenatis a. Quam elementum pulvinar etiam non quam. Arcu dictum varius duis at consectetur lorem donec. Aliquet porttitor lacus luctus accumsan tortor. Duis ut diam quam nulla porttitor massa id.",
+    id:2},
+    {para:"abecedarian.Commercial writing breaks all the rules. Whether or not you find it irritating, your task is to hold your readers’ attention and get them to read what you’ve written. The average person doesn’t like to see solid blocks of text. It looks like it’s going to be difficult to get through, and nobody likes to work harder than they have to.",
+    id:3},
+    {para:"“White Space” is a great way to make your information look easier to master, and one of the best ways to create “white space” is through using paragraphs. For commercial writing, it’s best to keep sentences short and punchy, and the same goes for paragraphs.",
+    id:4},
+    {para:"In fact, much of what is offered here is repeated in other theorizing on postmodernism. Like many before him (both defenders and detractors), Eagleton separates theory and practice, choosing to argue primarily in abstract theoretical terms and almost seeming to avoid mention of exactly what kind of aesthetic practice is actually being talked about. This strategy, however clever and certainly convenient, leads only to endless confusion.",
+    id:5},
+    {para:"abecedarian.Much offered here is repeated in other theorizing on postmodernism. Like many, both defenders and detractors, Eagleton separates theory and practice, choosing to argue in abstract theoretical terms and almost seeming to avoid mention of what aesthetic practice is being talked about. This strategy, clever and convenient, leads to endless confusion.",
+    id:6},
+    {para:"In the section on sentences, I suggested structure that you can also learn a lot about the length of sentences simply by being aware of what you are doing when you are writing. You can do the same with paragraphs. Have a look at your most recent essay. Do your paragraphs have wildly differing lengths – sometimes a few lines, sometimes nearly a whole page? Or are they all about the same length? If you answered ‘yes’ to the second question then you are well on your way to writing good, clear essays.",
+    id:7},
+    {para:"Each paragraph should represent a new stage in the argument and structure of your essay. A good way to think about the content of paragraphs is the ‘Rubin method’ which says that paragraphs should contain a subject or topic and a series of statements that make clear what the writer thinks is important or pertinent about the subject or topic.",
+    id:8},
+    {para:"A well-organized paragraphs supports or develops a single controlling idea, which is expressed in a sentence called the topic sentence. A topic sentence has several important functions: it substantiates or supports an essay’s thesis statement; it unifies the content of a paragraph and directs the order of the sentences; and it advises the reader of the subject to be discussed and how the paragraph will discuss it. Readers generally look to the first few sentences in a paragraph to determine the subject and perspective of the paragraph. That’s why it’s often best to put the topic sentence at the very beginning of the paragraph. In some cases, however, it’s more effective to place another sentence before the topic sentence—for example, a sentence linking the current paragraph to the previous one, or one providing background information.",
+    id:9},
+    {para:"abecedarian.Although most paragraphs should have a topic sentence, there are a few situations when a paragraph might not need a topic sentence. For example, you might be able to omit a topic sentence in a paragraph that narrates a series of events, if a paragraph continues developing an idea that you introduced (with a topic sentence) in the previous paragraph, or if all the sentences and details in a paragraph clearly refer—perhaps indirectly—to a main point. The vast majority of your paragraphs, however, should have a topic sentence.",
+    id:10}
+    ];
+
+
+export default documented;    
